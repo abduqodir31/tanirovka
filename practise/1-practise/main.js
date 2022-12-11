@@ -101,17 +101,17 @@
 //    console.log("Eng kichkinasi");
 // }
 
-if (+prompt("yoshingizni kiriting?")>=20){
-    confirm("uylaniwingiz kerak ")? console.log(  "Toy")
-    :console.log("bo'ydoq otib ket");
-};
+// if (+prompt("yoshingizni kiriting?")>=20){
+//     confirm("uylaniwingiz kerak ")? console.log(  "Toy")
+//     :console.log("bo'ydoq otib ket");
+// };
 
 
-  if ( confirm("aniq uylan moqchimisan.")){
-    confirm("100 tali oylab kordinmi")
-    ? console.log("uka seryoz cholab qolibsan,doctorga korsat ozini")
-    : console.log("Malades ukam hayot hali oldinda");
-  }
+//   if ( confirm("aniq uylan moqchimisan.")){
+//     confirm("100 tali oylab kordinmi")
+//     ? console.log("uka seryoz cholab qolibsan,doctorga korsat ozini")
+//     : console.log("Malades ukam hayot hali oldinda");
+//   }
  
    
 
