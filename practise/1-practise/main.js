@@ -64,7 +64,6 @@
 //    console.log(r);
 //  }
 
-
 // let u = prompt("buttun soni kiriting 1-kichkina-20-kotassi-40");                                            (6)-(7)-(8)-(9)
 // let m = "40";
 
@@ -88,7 +87,6 @@
 //    console.log( 0 );
 // }
 
-
 // let sut = +prompt ("buttun soni kiriting")                                                                               (12)-(13)
 // let sud = 50;
 // let sup = 25;
@@ -102,3 +100,21 @@
 // else if ( sut < 10 && sut > 0){
 //    console.log("Eng kichkinasi");
 // }
+
+if (+prompt("yoshingizni kiriting?")>=20){
+    confirm("uylaniwingiz kerak ")? console.log(  "Toy")
+    :console.log("bo'ydoq otib ket");
+};
+
+
+  if ( confirm("aniq uylan moqchimisan.")){
+    confirm("100 tali oylab kordinmi")
+    ? console.log("uka seryoz cholab qolibsan,doctorga korsat ozini")
+    : console.log("Malades ukam hayot hali oldinda");
+  }
+ 
+   
+
+
+
+
