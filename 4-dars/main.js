@@ -29,8 +29,8 @@
 
 
 // let result ;
-// let operator = prompt("21 asir kalkulatori( + , - , / , *,)")
 // let number1 = parseFloat(prompt("birinchi raqamni kiriting"))
+// let operator = prompt("21 asir kalkulatori( + , - , / , *,)")
 // let number2 = parseFloat(prompt("ikkinchi raqanmi kiriting"))
  
 
@@ -55,7 +55,3 @@
 //                     default:
 //                         console.log('invalid operator');
 // }
-
-
-
-
